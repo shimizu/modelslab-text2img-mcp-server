@@ -1,0 +1,26 @@
+{
+  "name": "modelslab-text2img-mcp-server",
+  "version": "1.0.0",
+  "description": "ModelsLab Text2Image API専用MCPサーバー - Flux、Stable Diffusion等の高品質画像生成",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "npx @modelcontextprotocol/inspector node src/index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.15.1",
+    "axios": "^1.7.2"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "modelslab",
+    "text2img",
+    "flux",
+    "stable-diffusion",
+    "ai-image-generation"
+  ],
+  "author": "",
+  "license": "MIT"
+}
