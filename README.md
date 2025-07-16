@@ -1,4 +1,4 @@
-# 🎨 ModelsLab Text2Image MCP Server [DRAFT VERSION]
+# 🎨 ModelsLab Text2Image MCP Server [DRAFT]
 
 > ⚠️ **注意**: このプロジェクトは現在ドラフト版です。本番環境での使用前に十分なテストを行ってください。
 
