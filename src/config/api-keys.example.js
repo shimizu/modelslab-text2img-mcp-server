@@ -13,15 +13,7 @@
  * - 本番環境では環境変数の使用を推奨します
  */
 
-export const apiKeys = {
-  // e-Stat API アプリケーションID
-  // 取得方法: https://www.e-stat.go.jp/api/
-  eStat: 'your_estat_api_key_here',
-  
-  // 将来的に他のAPIを追加する場合
-  // openData: 'your_opendata_api_key_here',
-  // resas: 'your_resas_api_key_here'
-};
+
 
 // ModelsLab API設定
 export const modelsLabApiKeys = {
